@@ -12,8 +12,11 @@ This is a simple Todo app built with React, Typescript, REST, API, SCSS, Bulma.
 - Delete Completed Todos: Users can remove all completed tasks from their to-do list at once.
 - Filter between All, Active and Completed todos.
 
+### DEMO
 
-### Installing
+https://kochetov-yevhen-may29.github.io/todo-app/
+
+#### Installing
 
 1. Clone this repository to your local machine.
 
